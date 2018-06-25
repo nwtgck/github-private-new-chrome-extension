@@ -1,9 +1,9 @@
 {
   "name": "GitHub Private New",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "manifest_version": 2,
 
-  "description": "GitHub back",
+  "description": "GitHub Private New",
   "permissions": [
     "https://github.com/new"
   ],
